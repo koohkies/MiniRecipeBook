@@ -1,7 +1,12 @@
---05--17--2025-------------------------/------
+---------------------------------------/------
 
-Uploaded Basic Recipes and Links to Pages
+little recipe with three of my common student
+recipes made in my apt. 
 
-Mini-Project done while Learning HTML! 
-
+includes:
+- landing page
+- navigation page
+- 3 seperate recipe pages
+- use of ordered and unordered lists
+- minimal css styling
 -/--------------------------------------------
