@@ -1,7 +1,7 @@
 ---------------------------------------/------
 
-little recipe with three of my common student
-recipes made in my apt. 
+little recipe book site with three common 
+student recipes made in my apt. 
 
 includes:
 - landing page
